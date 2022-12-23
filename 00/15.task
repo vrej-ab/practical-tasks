@@ -1,0 +1,10 @@
+### Regular VS Environmental variables.
+* a. Create a bash script that will cover the following items:
+  * Define an environmental variable as `var1` with value of `1`.
+  * Define a regular variable as `var2` with value of `2`.
+  * Call the values of thease variables in the script.
+  * Call the values of thease variables in a sub-shell of the script and analyse the difrences (if there are any).
+
+* b. If the previous item is done successfully, now modify the same script to create the environmental variables using another command like if you previously used `export` so now you may use `declare` command instead.
+  * Note: Please consider to comment out the relevant lines that you need to modify/change the command and add a new line under it, so the tutor may see both commands that you used to create environmental variables.
+

@@ -1,0 +1,8 @@
+### What is a shell script and how to create a `BASH` script?
+* a. Create a very simple bash script file.
+  * Hint: The mandatory requirement of a `bash` script is the relevant `Shebang`. For more detail refer to [Shebang](https://linuxize.com/post/bash-shebang).
+* b. Provide your answer to `What is a shell script?` as a comment in the script file - You may use multiline comment but keep it short and clear.
+* c. You will be asked to describe the methods that a shell script can be run.
+  *  How to make a script executable?
+  *  How to run a script with only read permission on the file?
+
