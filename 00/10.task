@@ -1,9 +1,0 @@
-### Glob characters
-* What is `Globbing` in bash?
-* Write a bash script that covers the following requirements after running:
-  * Note: 1) Include all the Glob characters as comments, each in dedicated line. 2) Output a simple message like `END` after providing each requirement output. 3) Each mentioned requirement should be covered by dedicated command(s) - You are not allowed to use command(s) that may cover all the requirements at once!
-  * Outputs the files in this current directory that **starts with a `single character` (any character) and contains `.task` after it.**
-  * Outputs the files in this current directory that **starts with two `numeric characters` (any number) and contains a single dot `.` and may or may not contain other characters after it.**
-  * Outputs the files in this current directory that **starts with any `lower-case` OR `upper-case` alphabet character and may or may not contain other characters in the file name.**
-  * Outputs the files in this current directory that **starts with any `numeric character` except the number five `5`.**
-
