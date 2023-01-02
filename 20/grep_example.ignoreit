@@ -1,0 +1,14 @@
+THIS LINE IS THE 1ST UPPER CASE LINE IN THIS FILE.
+THIS LINE CONTAINS ONLY UPPER CASE LETTERS.
+this line is the 1st lower case line in this file.
+This Line Has All Its First Character Of The Word With Upper Case.
+# This Line is a commented line.
+
+
+Two lines above this line is empty
+# This Line is also a commented line.
+This_line is an example.
+This_line:is:an:example.
+This_line:is:an;_example.
+Thislineisanexample.
+And this is the last line.
